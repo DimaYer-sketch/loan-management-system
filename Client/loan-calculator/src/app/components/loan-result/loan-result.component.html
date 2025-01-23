@@ -1,0 +1,11 @@
+<div *ngIf="loanResponse">
+  <h3>Loan Calculation Result</h3>
+  <p>Total Amount: {{ loanResponse.totalAmount }}</p>
+  <p>Base Interest: {{ loanResponse.baseInterest }}</p>
+  <p>Additional Interest: {{ loanResponse.additionalInterest }}</p>
+  <ul>
+    <li *ngFor="let detail of loanResponse.details">
+      {{ detail.calculation }}: {{ detail.amount }}
+    </li>
+  </ul>
+</div>

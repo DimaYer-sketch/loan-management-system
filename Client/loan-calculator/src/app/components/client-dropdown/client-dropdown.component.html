@@ -1,0 +1,12 @@
+<div>
+  <select
+    id="clientDropdown"
+    [(ngModel)]="selectedClientId"
+    (change)="onClientChange()"
+  >
+    <option [value]="null">Select a client</option>
+    <option *ngFor="let client of clients" [value]="client.id">
+      {{ client.name }} ({{ client.age }} years old)
+    </option>
+  </select>
+</div>

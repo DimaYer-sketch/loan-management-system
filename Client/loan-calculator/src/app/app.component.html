@@ -1,0 +1,19 @@
+<div class="container mt-5">
+  <h1 class="mb-4">Loan Calculator</h1>
+
+  <app-client-dropdown
+    (clientSelected)="onClientSelected($event)"
+  ></app-client-dropdown>
+
+  <div *ngIf="selectedClientId" class="mt-4">
+    <app-loan-form
+      [clientId]="selectedClientId"
+      (loanCalculated)="onLoanCalculated($event)"
+    >
+    </app-loan-form>
+  </div>
+
+  <div *ngIf="loanResponse" class="mt-4 loan-result">
+    <app-loan-result [loanResponse]="loanResponse"></app-loan-result>
+  </div>
+</div>

@@ -1,0 +1,134 @@
+/* Styling for Select Client dropdown */
+#clientDropdown {
+  font-size: 1.5em;
+  font-weight: bold;
+  padding: 12px 20px;
+  width: 100%;
+  max-width: 400px;
+  margin-top: 10px;
+  border: 2px solid #007bff;
+  border-radius: 8px;
+  background-color: #f8f9fa;
+  transition: all 0.3s ease;
+}
+
+#clientDropdown:focus {
+  border-color: #0056b3;
+  outline: none;
+}
+
+/* Reduce the size of input fields */
+input.form-control {
+  font-size: 1.1em; /* Smaller font size */
+  padding: 8px 12px; /* Smaller padding */
+  width: 100%;
+  max-width: 250px; /* Decrease width */
+  margin-top: 10px;
+  border: 2px solid #007bff;
+  border-radius: 8px;
+  background-color: #f8f9fa;
+  transition: all 0.3s ease;
+}
+
+input.form-control:focus {
+  border-color: #0056b3;
+  outline: none;
+}
+
+/* Loan Amount and Loan Duration fields */
+input[type="number"] {
+  font-size: 1.1em;
+  padding: 8px 12px;
+  margin-bottom: 15px;
+}
+
+/* Styling for Submit Button */
+button.btn-primary {
+  background-color: #007bff;
+  border-color: #007bff;
+  padding: 12px 20px;
+  font-size: 1.2em;
+  border-radius: 8px;
+}
+
+button.btn-primary:disabled {
+  background-color: #ddd;
+  border-color: #ddd;
+}
+
+button.btn-primary:hover:enabled {
+  background-color: #0056b3;
+  border-color: #0056b3;
+}
+
+/* Loan Calculation Result Section */
+.loan-result {
+  margin-top: 30px;
+  padding: 25px;
+  border: 2px solid #007bff;
+  border-radius: 12px;
+  background-color: #f4f7fa;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.1);
+  font-family: "Arial", sans-serif;
+  max-width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.loan-result h3 {
+  font-size: 2.2em;
+  color: #007bff;
+  margin-bottom: 25px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.loan-result p {
+  font-size: 1.6em;
+  margin: 15px 0;
+  color: #333;
+  line-height: 1.6;
+}
+
+.loan-result ul {
+  padding-left: 30px;
+  margin-top: 20px;
+}
+
+.loan-result li {
+  list-style-type: circle;
+  font-size: 1.4em;
+  margin: 15px 0;
+  color: #333;
+}
+
+.loan-result ul li span {
+  font-weight: bold;
+  color: #007bff;
+}
+
+/* Highlighting the entire section on hover */
+.loan-result:hover {
+  border-color: #0056b3;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+/* Responsive adjustments for smaller screens */
+@media (max-width: 768px) {
+  .loan-result {
+    padding: 20px;
+    max-width: 90%;
+  }
+
+  .loan-result h3 {
+    font-size: 1.9em;
+  }
+
+  .loan-result p {
+    font-size: 1.4em;
+  }
+
+  .loan-result ul li {
+    font-size: 1.3em;
+  }
+}
