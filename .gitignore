@@ -1,0 +1,19 @@
+# Node modules (для Angular)
+/Client/node_modules/
+
+# .NET build output
+/Server/bin/
+/Server/obj/
+
+# Visual Studio Code
+.vscode/
+
+# MacOS, Windows, IDE
+.DS_Store
+Thumbs.db
+
+# 
+*.log
+
+# 
+/Client/dist/
