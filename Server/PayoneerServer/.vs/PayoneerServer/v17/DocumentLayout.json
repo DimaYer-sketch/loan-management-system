@@ -1,0 +1,429 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\HomeworkPayoneer\\Server\\PayoneerServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C379EEAE-B823-40C2-A031-C20C9D9204EF}|PayoneerServer.csproj|c:\\homeworkpayoneer\\server\\payoneerserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C379EEAE-B823-40C2-A031-C20C9D9204EF}|PayoneerServer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C379EEAE-B823-40C2-A031-C20C9D9204EF}|PayoneerServer.csproj|c:\\homeworkpayoneer\\server\\payoneerserver\\controllers\\loancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C379EEAE-B823-40C2-A031-C20C9D9204EF}|PayoneerServer.csproj|solutionrelative:controllers\\loancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C379EEAE-B823-40C2-A031-C20C9D9204EF}|PayoneerServer.csproj|c:\\homeworkpayoneer\\server\\payoneerserver\\models\\calculationdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C379EEAE-B823-40C2-A031-C20C9D9204EF}|PayoneerServer.csproj|solutionrelative:models\\calculationdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C379EEAE-B823-40C2-A031-C20C9D9204EF}|PayoneerServer.csproj|c:\\homeworkpayoneer\\server\\payoneerserver\\services\\loancalculationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C379EEAE-B823-40C2-A031-C20C9D9204EF}|PayoneerServer.csproj|solutionrelative:services\\loancalculationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C379EEAE-B823-40C2-A031-C20C9D9204EF}|PayoneerServer.csproj|c:\\homeworkpayoneer\\server\\payoneerserver\\services\\loancalculationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C379EEAE-B823-40C2-A031-C20C9D9204EF}|PayoneerServer.csproj|solutionrelative:services\\loancalculationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C379EEAE-B823-40C2-A031-C20C9D9204EF}|PayoneerServer.csproj|c:\\homeworkpayoneer\\server\\payoneerserver\\models\\loanresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C379EEAE-B823-40C2-A031-C20C9D9204EF}|PayoneerServer.csproj|solutionrelative:models\\loanresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C379EEAE-B823-40C2-A031-C20C9D9204EF}|PayoneerServer.csproj|c:\\homeworkpayoneer\\server\\payoneerserver\\data\\clients.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C379EEAE-B823-40C2-A031-C20C9D9204EF}|PayoneerServer.csproj|solutionrelative:data\\clients.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C379EEAE-B823-40C2-A031-C20C9D9204EF}|PayoneerServer.csproj|c:\\homeworkpayoneer\\server\\payoneerserver\\models\\loanrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C379EEAE-B823-40C2-A031-C20C9D9204EF}|PayoneerServer.csproj|solutionrelative:models\\loanrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C379EEAE-B823-40C2-A031-C20C9D9204EF}|PayoneerServer.csproj|c:\\homeworkpayoneer\\server\\payoneerserver\\interfaces\\iloancalculationstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C379EEAE-B823-40C2-A031-C20C9D9204EF}|PayoneerServer.csproj|solutionrelative:interfaces\\iloancalculationstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C379EEAE-B823-40C2-A031-C20C9D9204EF}|PayoneerServer.csproj|c:\\homeworkpayoneer\\server\\payoneerserver\\models\\seniorclientstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C379EEAE-B823-40C2-A031-C20C9D9204EF}|PayoneerServer.csproj|solutionrelative:models\\seniorclientstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C379EEAE-B823-40C2-A031-C20C9D9204EF}|PayoneerServer.csproj|c:\\homeworkpayoneer\\server\\payoneerserver\\models\\midageclientstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C379EEAE-B823-40C2-A031-C20C9D9204EF}|PayoneerServer.csproj|solutionrelative:models\\midageclientstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C379EEAE-B823-40C2-A031-C20C9D9204EF}|PayoneerServer.csproj|c:\\homeworkpayoneer\\server\\payoneerserver\\interfaces\\iclientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C379EEAE-B823-40C2-A031-C20C9D9204EF}|PayoneerServer.csproj|solutionrelative:interfaces\\iclientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C379EEAE-B823-40C2-A031-C20C9D9204EF}|PayoneerServer.csproj|c:\\homeworkpayoneer\\server\\payoneerserver\\interfaces\\iloancalculationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C379EEAE-B823-40C2-A031-C20C9D9204EF}|PayoneerServer.csproj|solutionrelative:interfaces\\iloancalculationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C379EEAE-B823-40C2-A031-C20C9D9204EF}|PayoneerServer.csproj|c:\\homeworkpayoneer\\server\\payoneerserver\\models\\youngclientstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C379EEAE-B823-40C2-A031-C20C9D9204EF}|PayoneerServer.csproj|solutionrelative:models\\youngclientstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C379EEAE-B823-40C2-A031-C20C9D9204EF}|PayoneerServer.csproj|c:\\homeworkpayoneer\\server\\payoneerserver\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C379EEAE-B823-40C2-A031-C20C9D9204EF}|PayoneerServer.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C379EEAE-B823-40C2-A031-C20C9D9204EF}|PayoneerServer.csproj|c:\\homeworkpayoneer\\server\\payoneerserver\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C379EEAE-B823-40C2-A031-C20C9D9204EF}|PayoneerServer.csproj|solutionrelative:models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C379EEAE-B823-40C2-A031-C20C9D9204EF}|PayoneerServer.csproj|c:\\homeworkpayoneer\\server\\payoneerserver\\repositories\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C379EEAE-B823-40C2-A031-C20C9D9204EF}|PayoneerServer.csproj|solutionrelative:repositories\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C379EEAE-B823-40C2-A031-C20C9D9204EF}|PayoneerServer.csproj|c:\\homeworkpayoneer\\server\\payoneerserver\\filters\\validationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C379EEAE-B823-40C2-A031-C20C9D9204EF}|PayoneerServer.csproj|solutionrelative:filters\\validationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C379EEAE-B823-40C2-A031-C20C9D9204EF}|PayoneerServer.csproj|c:\\homeworkpayoneer\\server\\payoneerserver\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C379EEAE-B823-40C2-A031-C20C9D9204EF}|PayoneerServer.csproj|solutionrelative:models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C379EEAE-B823-40C2-A031-C20C9D9204EF}|PayoneerServer.csproj|c:\\homeworkpayoneer\\server\\payoneerserver\\middleware\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C379EEAE-B823-40C2-A031-C20C9D9204EF}|PayoneerServer.csproj|solutionrelative:middleware\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 38,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:15:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:16:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:17:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:18:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:19:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:20:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:21:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:22:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:23:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:24:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:25:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:26:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:27:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:28:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:29:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:30:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:31:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:32:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalculationDetail.cs",
+              "DocumentMoniker": "C:\\HomeworkPayoneer\\Server\\PayoneerServer\\Models\\CalculationDetail.cs",
+              "RelativeDocumentMoniker": "Models\\CalculationDetail.cs",
+              "ToolTip": "C:\\HomeworkPayoneer\\Server\\PayoneerServer\\Models\\CalculationDetail.cs",
+              "RelativeToolTip": "Models\\CalculationDetail.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T21:39:59.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ILoanCalculationStrategy.cs",
+              "DocumentMoniker": "C:\\HomeworkPayoneer\\Server\\PayoneerServer\\Interfaces\\ILoanCalculationStrategy.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ILoanCalculationStrategy.cs",
+              "ToolTip": "C:\\HomeworkPayoneer\\Server\\PayoneerServer\\Interfaces\\ILoanCalculationStrategy.cs",
+              "RelativeToolTip": "Interfaces\\ILoanCalculationStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T20:46:46.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ILoanCalculationService.cs",
+              "DocumentMoniker": "C:\\HomeworkPayoneer\\Server\\PayoneerServer\\Interfaces\\ILoanCalculationService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ILoanCalculationService.cs",
+              "ToolTip": "C:\\HomeworkPayoneer\\Server\\PayoneerServer\\Interfaces\\ILoanCalculationService.cs",
+              "RelativeToolTip": "Interfaces\\ILoanCalculationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T20:47:07.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\HomeworkPayoneer\\Server\\PayoneerServer\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "Models\\LoginRequest.cs",
+              "ToolTip": "C:\\HomeworkPayoneer\\Server\\PayoneerServer\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "Models\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T19:43:44.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IClientRepository.cs",
+              "DocumentMoniker": "C:\\HomeworkPayoneer\\Server\\PayoneerServer\\Interfaces\\IClientRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IClientRepository.cs",
+              "ToolTip": "C:\\HomeworkPayoneer\\Server\\PayoneerServer\\Interfaces\\IClientRepository.cs",
+              "RelativeToolTip": "Interfaces\\IClientRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T19:34:50.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\HomeworkPayoneer\\Server\\PayoneerServer\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\HomeworkPayoneer\\Server\\PayoneerServer\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAUwCwAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T19:28:44.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoanCalculationService.cs",
+              "DocumentMoniker": "C:\\HomeworkPayoneer\\Server\\PayoneerServer\\Services\\LoanCalculationService.cs",
+              "RelativeDocumentMoniker": "Services\\LoanCalculationService.cs",
+              "ToolTip": "C:\\HomeworkPayoneer\\Server\\PayoneerServer\\Services\\LoanCalculationService.cs",
+              "RelativeToolTip": "Services\\LoanCalculationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T19:25:03.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoanCalculationFactory.cs",
+              "DocumentMoniker": "C:\\HomeworkPayoneer\\Server\\PayoneerServer\\Services\\LoanCalculationFactory.cs",
+              "RelativeDocumentMoniker": "Services\\LoanCalculationFactory.cs",
+              "ToolTip": "C:\\HomeworkPayoneer\\Server\\PayoneerServer\\Services\\LoanCalculationFactory.cs",
+              "RelativeToolTip": "Services\\LoanCalculationFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T19:27:45.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ClientRepository.cs",
+              "DocumentMoniker": "C:\\HomeworkPayoneer\\Server\\PayoneerServer\\Repositories\\ClientRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ClientRepository.cs",
+              "ToolTip": "C:\\HomeworkPayoneer\\Server\\PayoneerServer\\Repositories\\ClientRepository.cs",
+              "RelativeToolTip": "Repositories\\ClientRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T19:27:40.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "YoungClientStrategy.cs",
+              "DocumentMoniker": "C:\\HomeworkPayoneer\\Server\\PayoneerServer\\Models\\YoungClientStrategy.cs",
+              "RelativeDocumentMoniker": "Models\\YoungClientStrategy.cs",
+              "ToolTip": "C:\\HomeworkPayoneer\\Server\\PayoneerServer\\Models\\YoungClientStrategy.cs",
+              "RelativeToolTip": "Models\\YoungClientStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T19:27:22.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SeniorClientStrategy.cs",
+              "DocumentMoniker": "C:\\HomeworkPayoneer\\Server\\PayoneerServer\\Models\\SeniorClientStrategy.cs",
+              "RelativeDocumentMoniker": "Models\\SeniorClientStrategy.cs",
+              "ToolTip": "C:\\HomeworkPayoneer\\Server\\PayoneerServer\\Models\\SeniorClientStrategy.cs",
+              "RelativeToolTip": "Models\\SeniorClientStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T19:27:14.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MidAgeClientStrategy.cs",
+              "DocumentMoniker": "C:\\HomeworkPayoneer\\Server\\PayoneerServer\\Models\\MidAgeClientStrategy.cs",
+              "RelativeDocumentMoniker": "Models\\MidAgeClientStrategy.cs",
+              "ToolTip": "C:\\HomeworkPayoneer\\Server\\PayoneerServer\\Models\\MidAgeClientStrategy.cs",
+              "RelativeToolTip": "Models\\MidAgeClientStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T19:27:02.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "clients.json",
+              "DocumentMoniker": "C:\\HomeworkPayoneer\\Server\\PayoneerServer\\Data\\clients.json",
+              "RelativeDocumentMoniker": "Data\\clients.json",
+              "ToolTip": "C:\\HomeworkPayoneer\\Server\\PayoneerServer\\Data\\clients.json",
+              "RelativeToolTip": "Data\\clients.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-22T19:26:25.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoanResponse.cs",
+              "DocumentMoniker": "C:\\HomeworkPayoneer\\Server\\PayoneerServer\\Models\\LoanResponse.cs",
+              "RelativeDocumentMoniker": "Models\\LoanResponse.cs",
+              "ToolTip": "C:\\HomeworkPayoneer\\Server\\PayoneerServer\\Models\\LoanResponse.cs",
+              "RelativeToolTip": "Models\\LoanResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T18:28:12.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ValidationFilter.cs",
+              "DocumentMoniker": "C:\\HomeworkPayoneer\\Server\\PayoneerServer\\Filters\\ValidationFilter.cs",
+              "RelativeDocumentMoniker": "Filters\\ValidationFilter.cs",
+              "ToolTip": "C:\\HomeworkPayoneer\\Server\\PayoneerServer\\Filters\\ValidationFilter.cs",
+              "RelativeToolTip": "Filters\\ValidationFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T18:21:58.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoanRequest.cs",
+              "DocumentMoniker": "C:\\HomeworkPayoneer\\Server\\PayoneerServer\\Models\\LoanRequest.cs",
+              "RelativeDocumentMoniker": "Models\\LoanRequest.cs",
+              "ToolTip": "C:\\HomeworkPayoneer\\Server\\PayoneerServer\\Models\\LoanRequest.cs",
+              "RelativeToolTip": "Models\\LoanRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T18:20:47.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\HomeworkPayoneer\\Server\\PayoneerServer\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\HomeworkPayoneer\\Server\\PayoneerServer\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAG4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T18:18:08.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ErrorHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\HomeworkPayoneer\\Server\\PayoneerServer\\Middleware\\ErrorHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "Middleware\\ErrorHandlingMiddleware.cs",
+              "ToolTip": "C:\\HomeworkPayoneer\\Server\\PayoneerServer\\Middleware\\ErrorHandlingMiddleware.cs",
+              "RelativeToolTip": "Middleware\\ErrorHandlingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T18:17:44.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\HomeworkPayoneer\\Server\\PayoneerServer\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "Models\\Client.cs",
+              "ToolTip": "C:\\HomeworkPayoneer\\Server\\PayoneerServer\\Models\\Client.cs",
+              "RelativeToolTip": "Models\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T18:13:02.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoanController.cs",
+              "DocumentMoniker": "C:\\HomeworkPayoneer\\Server\\PayoneerServer\\Controllers\\LoanController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoanController.cs",
+              "ToolTip": "C:\\HomeworkPayoneer\\Server\\PayoneerServer\\Controllers\\LoanController.cs",
+              "RelativeToolTip": "Controllers\\LoanController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T18:12:24.908Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
